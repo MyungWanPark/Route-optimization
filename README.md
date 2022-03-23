@@ -2,6 +2,10 @@
 
 > 용인시 재활용 수거 권역 및 경로 최적화 구현 결과물
 
+#### 4인 프로젝트
+
+Skill Set: Java,JSP, Mysql, Python, Apache Tomcat, HTML, CSS, JS 
+
 
 ### Initial Screen
 
